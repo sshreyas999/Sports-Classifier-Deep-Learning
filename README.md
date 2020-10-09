@@ -1,6 +1,6 @@
 # Deep Learning Image Classifier (Sports) 
 
-Code Written in Python using Jupyter Notebook. Open the notebook [here](https://github.com/sshreyas999/Predicting-College-Admissions-Random-Forest/blob/main/Random%20Forest%20-%20Predicting%20College%20Admissions.ipynb) for code and thorough analysis.
+Code Written in Python using Jupyter Notebook. Open the notebook [here](https://github.com/sshreyas999/Sports-Classifier-Deep-Learning/blob/main/Sports%20Classifier%20(CNN%20%2B%20Transfer%20Learning).ipynb) for code and thorough analysis.
 
 **Note**: Training/Validation data set not hosted on github, can be downloaded from [here](http://vision.stanford.edu/lijiali/event_dataset/).
 
